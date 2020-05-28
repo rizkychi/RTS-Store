@@ -1,0 +1,26 @@
+/*
+Theme Name: Digital Products
+Theme URI: https://wpdigipro.com/wordpress-themes/digital-products
+Author: WPDigiPro
+Author URI: https://wpdigipro.com
+Description: Digital Products is a WordPress theme to help you in selling your Digital Products. This theme is optimized for selling digital products. So, if you would like to sell softwares or PDFs or graphics or any type of membership then Digital Products WordPress theme is for you. It is a mobile responsive WordPress theme so your website looks amazing in all the mobile devices, Macs and PCs. It supports SiteOrigin drag and drop page builder hence you can customize your website as per your needs. To make your website a fully functional membership website you can buy and add WPDigiPro WordPress plugin (available at WPDigiPro.com). You can integrate PayPal to receive Payments and automatically membership area will be created for your buyers from where they will be able to download their digital product. Check more details of WPDigiPro at WPDigiPro.com. Step by Step documentation of Digital Products WordPress theme along with dummy data is here: https://wpdigipro.com/documentation/digital-products-wordpress-theme/
+Version: 1.0.10
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: digital-products
+Tags: one-column, two-columns,left-sidebar,grid-layout,custom-logo,custom-colors,custom-menu,featured-images,translation-ready,blog,featured-image-header,footer-widgets,full-width-template,theme-options,threaded-comments
+*/
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+
+/*Custome css progressbar*/
+.count{
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	padding: 0 20px;
+	color:#fff;
+}
+iframe{
+    width: 100%;
+}

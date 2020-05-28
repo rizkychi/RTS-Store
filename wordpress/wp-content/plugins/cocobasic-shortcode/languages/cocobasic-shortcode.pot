@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CocoBasic - Caliris WP\n"
+"POT-Creation-Date: 2018-01-09 21:37+0100\n"
+"PO-Revision-Date: 2018-01-09 21:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cocobasic-shortcode.php:769 cocobasic-shortcode.php:770
+msgid "Team"
+msgstr ""
+
+#: cocobasic-shortcode.php:787 cocobasic-shortcode.php:788
+msgid "Portfolio"
+msgstr ""
+
+#: cocobasic-shortcode.php:806
+msgid "Portfolio Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:817
+msgid "Custom thumb title on mouse over"
+msgstr ""
+
+#: cocobasic-shortcode.php:818
+msgid "by default is used item title"
+msgstr ""
+
+#: cocobasic-shortcode.php:823
+msgid "Thumb text on mouse over (second line)"
+msgstr ""
+
+#: cocobasic-shortcode.php:829
+msgid "Thumb image size"
+msgstr ""
+
+#: cocobasic-shortcode.php:845
+msgid "Link thumb to"
+msgstr ""
+
+#: cocobasic-shortcode.php:851
+msgid "This post"
+msgstr ""
+
+#: cocobasic-shortcode.php:855
+msgid "Image"
+msgstr ""
+
+#: cocobasic-shortcode.php:859
+msgid "Video"
+msgstr ""
+
+#: cocobasic-shortcode.php:863
+msgid "External URL"
+msgstr ""
+
+#: cocobasic-shortcode.php:869
+msgid "Link thumb to Image:"
+msgstr ""
+
+#: cocobasic-shortcode.php:875
+msgid "Link thumb to Video"
+msgstr ""
+
+#: cocobasic-shortcode.php:876
+msgid ""
+"For example: http://vimeo.com/XXXXXX or http://www.youtube.com/watch?v=XXXXXX"
+msgstr ""
+
+#: cocobasic-shortcode.php:881
+msgid "Link thumb to External URL:"
+msgstr ""
+
+#: cocobasic-shortcode.php:882
+msgid "Set URL to external site"
+msgstr ""
+
+#: cocobasic-shortcode.php:911 cocobasic-shortcode.php:1233
+#: cocobasic-shortcode.php:1239 shortcode_template.php:64
+#: shortcode_template.php:140
+msgid "Upload Image"
+msgstr ""
+
+#: cocobasic-shortcode.php:912 shortcode_template.php:65
+#: shortcode_template.php:141
+msgid "Enter a URL or upload an image"
+msgstr ""
+
+#: cocobasic-shortcode.php:983
+msgid "Page Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:995
+msgid "Page Structure"
+msgstr ""
+
+#: cocobasic-shortcode.php:1001
+msgid "Separated / Stand Alone Page"
+msgstr ""
+
+#: cocobasic-shortcode.php:1005
+msgid "Include in One Page"
+msgstr ""
+
+#: cocobasic-shortcode.php:1011
+msgid "Show Page Title"
+msgstr ""
+
+#: cocobasic-shortcode.php:1027
+msgid "Page Custom Title"
+msgstr ""
+
+#: cocobasic-shortcode.php:1033
+msgid "Page Description"
+msgstr ""
+
+#: cocobasic-shortcode.php:1039
+msgid "Big Number / Text"
+msgstr ""
+
+#: cocobasic-shortcode.php:1040
+msgid "big number above the title"
+msgstr ""
+
+#: cocobasic-shortcode.php:1045
+msgid "Small Number / Text"
+msgstr ""
+
+#: cocobasic-shortcode.php:1046
+msgid "small number above the title"
+msgstr ""
+
+#: cocobasic-shortcode.php:1051
+msgid "Big Number Color"
+msgstr ""
+
+#: cocobasic-shortcode.php:1057
+msgid "Full Screen Page"
+msgstr ""
+
+#: cocobasic-shortcode.php:1058
+msgid "minimal page height to fit screen"
+msgstr ""
+
+#: cocobasic-shortcode.php:1073
+msgid "Page Title Position"
+msgstr ""
+
+#: cocobasic-shortcode.php:1074
+msgid "*only for SplitPage template"
+msgstr ""
+
+#: cocobasic-shortcode.php:1079
+msgid "Left"
+msgstr ""
+
+#: cocobasic-shortcode.php:1083
+msgid "Right"
+msgstr ""
+
+#: cocobasic-shortcode.php:1089
+msgid "Page Title Background Image URL"
+msgstr ""
+
+#: cocobasic-shortcode.php:1090
+msgid "background image for the title (corner image)"
+msgstr ""
+
+#: cocobasic-shortcode.php:1095
+msgid "Page Title Background Color"
+msgstr ""
+
+#: cocobasic-shortcode.php:1096
+msgid "backup for \"Page Title Background Image\" on small resolution"
+msgstr ""
+
+#: cocobasic-shortcode.php:1101
+msgid "Page Background Color"
+msgstr ""
+
+#: cocobasic-shortcode.php:1102
+msgid "background color for a whole page"
+msgstr ""
+
+#: cocobasic-shortcode.php:1107
+msgid "Page Background Image URL"
+msgstr ""
+
+#: cocobasic-shortcode.php:1108
+msgid "background image for a whole page"
+msgstr ""
+
+#: cocobasic-shortcode.php:1113
+msgid "Background Image Position"
+msgstr ""
+
+#: cocobasic-shortcode.php:1157
+msgid "Background Image Repeat"
+msgstr ""
+
+#: cocobasic-shortcode.php:1180
+msgid "Background Image Size"
+msgstr ""
+
+#: cocobasic-shortcode.php:1204
+msgid "Page Custom CSS"
+msgstr ""
+
+#: cocobasic-shortcode.php:1205
+msgid "additional CSS just for this page (optional)"
+msgstr ""
+
+#: cocobasic-shortcode.php:1325
+msgid "Post Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:1336
+msgid "Show Featured Image on Single Post"
+msgstr ""
+
+#: cocobasic-shortcode.php:1337
+msgid "Note: Featured image on Blog page will be still visible"
+msgstr ""
+
+#: cocobasic-shortcode.php:1342
+msgid "Yes"
+msgstr ""
+
+#: cocobasic-shortcode.php:1346
+msgid "No"
+msgstr ""
+
+#: cocobasic-shortcode.php:1352
+msgid "Post Header Content"
+msgstr ""
+
+#: cocobasic-shortcode.php:1353
+msgid "set slider, vimeo or youtube iframe video in header"
+msgstr ""
+
+#: cocobasic-shortcode.php:1445
+msgid "Team Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:1456
+msgid "Member Position"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:120
+msgid "Columns"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:121
+msgid "Service"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:122
+msgid "Skills"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:123
+msgid "Video PopUp"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:125
+msgid "Image Slider Holder"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:126
+msgid "Image Slide"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:128
+msgid "Big Text"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:129
+msgid "Medium Text"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:130
+msgid "Info Text"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:132
+msgid "Latest Posts (News)"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:133
+msgid "Pulse (Animation)"
+msgstr ""
+
+#: cocobasic_shortcodes_popup.php:134
+msgid "Button"
+msgstr ""
+
+#: shortcode_template.php:33 shortcode_template.php:53
+#: shortcode_template.php:86 shortcode_template.php:169
+msgid "Class"
+msgstr ""
+
+#: shortcode_template.php:34 shortcode_template.php:54
+msgid "additional class"
+msgstr ""
+
+#: shortcode_template.php:38
+msgid "select column width"
+msgstr ""
+
+#: shortcode_template.php:39
+msgid "Last"
+msgstr ""
+
+#: shortcode_template.php:43 shortcode_template.php:75
+#: shortcode_template.php:100 shortcode_template.php:127
+#: shortcode_template.php:159 shortcode_template.php:186
+msgid "Insert Shortcode"
+msgstr ""
+
+#: shortcode_template.php:57
+msgid "Title"
+msgstr ""
+
+#: shortcode_template.php:58
+msgid "service title"
+msgstr ""
+
+#: shortcode_template.php:61 shortcode_template.php:137
+msgid "Set Image"
+msgstr ""
+
+#: shortcode_template.php:70 shortcode_template.php:146
+msgid "Alt tag for image"
+msgstr ""
+
+#: shortcode_template.php:71 shortcode_template.php:147
+msgid "Alt tag for image (optional)"
+msgstr ""
+
+#: shortcode_template.php:87 shortcode_template.php:170
+msgid "additional class (optional)"
+msgstr ""
+
+#: shortcode_template.php:90 shortcode_template.php:110
+msgid "Name"
+msgstr ""
+
+#: shortcode_template.php:91
+msgid "set unique name for each video"
+msgstr ""
+
+#: shortcode_template.php:95
+msgid "Video URL"
+msgstr ""
+
+#: shortcode_template.php:96
+msgid "http://vimeo.com/XXXXXX or http://www.youtube.com/watch?v=XXXXXX"
+msgstr ""
+
+#: shortcode_template.php:111
+msgid "*required image slider name - unique"
+msgstr ""
+
+#: shortcode_template.php:114
+msgid "Auto"
+msgstr ""
+
+#: shortcode_template.php:115
+msgid "slide auto"
+msgstr ""
+
+#: shortcode_template.php:118
+msgid "Hover Pause"
+msgstr ""
+
+#: shortcode_template.php:119
+msgid "pause on hover"
+msgstr ""
+
+#: shortcode_template.php:122
+msgid "Speed"
+msgstr ""
+
+#: shortcode_template.php:123
+msgid "duration of the transition in milliseconds"
+msgstr ""
+
+#: shortcode_template.php:150
+msgid "URL to Page/Post"
+msgstr ""
+
+#: shortcode_template.php:151
+msgid "Use this field to link image to some Page/Post (optional)"
+msgstr ""
+
+#: shortcode_template.php:154
+msgid "Target"
+msgstr ""
+
+#: shortcode_template.php:155 shortcode_template.php:178
+msgid "open link in same/new tab"
+msgstr ""
+
+#: shortcode_template.php:173
+msgid "Href"
+msgstr ""
+
+#: shortcode_template.php:174
+msgid "url to the linked page"
+msgstr ""
+
+#: shortcode_template.php:181
+msgid "Position"
+msgstr ""
+
+#: shortcode_template.php:182
+msgid "button position"
+msgstr ""

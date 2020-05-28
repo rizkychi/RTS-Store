@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>		
+		<key name="theme_mods_caliris-wp">
+			<key name="caliris_footer_mail"/>			
+			<key name="caliris_footer_tel"/>			
+			<key name="caliris_footer_social_content"/>			
+			<key name="caliris_footer_copyright_content"/>						
+		</key>
+	</admin-texts>
+</wpml-config>
